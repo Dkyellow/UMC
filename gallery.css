@@ -1,0 +1,21 @@
+.hero {
+  background-color: #e6f2ff;
+  background-image: url(img/thunder-img.png);
+  background-size: cover;
+  border-radius: 20px;
+}
+.hero h2 {
+  font-size: 2.5em;
+  color: #ffffff;
+}
+.hero h1 {
+  font-size: 3.5em;
+  color: #ffffff;
+}
+.hero p {
+  color: #000;
+}
+body {
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
